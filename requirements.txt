@@ -1,0 +1,10 @@
+camelot-py
+fitz
+numpy
+Jinja2
+openpyxl
+pandas
+PyMuPDF
+styleframe
+opencv-python
+ghostscript
